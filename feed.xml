@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TinyLara PHP Framework</title>
+    <description>TinyLara is a Simple PHP Framework based on Composer, looks like a Tiny Laravel. 
+</description>
+    <link>http://tinylara.com/</link>
+    <atom:link href="http://tinylara.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 13 Jan 2015 01:31:26 +0800</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2015 01:31:26 +0800</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+  </channel>
+</rss>
